@@ -7,3 +7,5 @@ I hold certifications in Excel and Power BI:
 - [Power BI Certificate](https://www.udemy.com/certificate/UC-bbf63fbd-198f-4da9-9280-0b6d8997f71b/)
 
 You can explore the projects I have built throughout my journey on this profile, focusing mainly on Python and other languages.
+
+Feel free to contact me at lucasrez777@gmail.com
